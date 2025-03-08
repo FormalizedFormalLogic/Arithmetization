@@ -1,5 +1,7 @@
 # Arithmetization
 
+**Archived: This repository is integrated into [Foundation](https://github.com/FormalizedFormalLogic/Foundation) now.**
+
 Formalization of weak arithmetic and arithmetization of metamathematics. This project depends on [Foundation](https://github.com/FormalizedFormalLogic/Foundation).
 
 ## Table of Contents
